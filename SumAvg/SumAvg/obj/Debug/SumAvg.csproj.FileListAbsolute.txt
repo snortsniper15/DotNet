@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\SumAvg\SumAvg\bin\Debug\SumAvg.exe.config
+C:\Users\student\source\repos\SumAvg\SumAvg\bin\Debug\SumAvg.exe
+C:\Users\student\source\repos\SumAvg\SumAvg\bin\Debug\SumAvg.pdb
+C:\Users\student\source\repos\SumAvg\SumAvg\obj\Debug\SumAvg.csprojAssemblyReference.cache
+C:\Users\student\source\repos\SumAvg\SumAvg\obj\Debug\SumAvg.Form1.resources
+C:\Users\student\source\repos\SumAvg\SumAvg\obj\Debug\SumAvg.Properties.Resources.resources
+C:\Users\student\source\repos\SumAvg\SumAvg\obj\Debug\SumAvg.csproj.GenerateResource.cache
+C:\Users\student\source\repos\SumAvg\SumAvg\obj\Debug\SumAvg.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SumAvg\SumAvg\obj\Debug\SumAvg.exe
+C:\Users\student\source\repos\SumAvg\SumAvg\obj\Debug\SumAvg.pdb
