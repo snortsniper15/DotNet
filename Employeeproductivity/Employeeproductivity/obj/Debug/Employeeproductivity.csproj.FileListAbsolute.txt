@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\bin\Debug\Employeeproductivity.exe.config
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\bin\Debug\Employeeproductivity.exe
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\bin\Debug\Employeeproductivity.pdb
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\obj\Debug\Employeeproductivity.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\obj\Debug\Employeeproductivity.Form1.resources
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\obj\Debug\Employeeproductivity.Properties.Resources.resources
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\obj\Debug\Employeeproductivity.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\obj\Debug\Employeeproductivity.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\obj\Debug\Employeeproductivity.exe
+C:\Users\student\source\repos\Employeeproductivity\Employeeproductivity\obj\Debug\Employeeproductivity.pdb
