@@ -103,6 +103,13 @@ namespace Employeeproductivity
             textBox4.Text = null;
             textBox6.Text = null;
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form2 obj = new Form2();
+            obj.Show();
+            this.Hide();
+        }
     }
     public class Staff
     {
