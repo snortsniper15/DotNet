@@ -54,9 +54,19 @@ namespace WindowsFormsApp2
 
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            
+            var user = textBox1.Text;
+            var pass = textBox2.Text;
+
+            if (user == "abc" && pass == "1234")
+            {
+                MessageBox.Show("Login Suceed");
+            }
+            else
+            {
+                MessageBox.Show("Try again");
+            }
         }
     }
 }
